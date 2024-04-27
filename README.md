@@ -31,6 +31,8 @@ Nodes (stopping location): [A,'B','C','D','E','F','G','H','I','J','K','L','M','N
 
 
 Depot: A
+
+
 Demand at each location:  {'A':0,'B':11,'C':15,'D':12,'E':9,'F':20,'G':17,'H':10,'I':13,'J':8,'K':11,'L':14,'M':19,'N':12,'O':15,'P':12}
 
 
