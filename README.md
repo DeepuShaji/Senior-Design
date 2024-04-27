@@ -9,5 +9,6 @@ When a customer orders packages from online, instead of getting it delievered to
 
 **Clustering:**
 The first part of this project is clustering, which is grouping together all customers which have close distance and which share the same pick-up time windows. This is done via a math model. After grouping the similar customer orders together, a stopping location is selected for each clusters which is where the mobile locker will be stopped at in order to serve the customers. The yellow dots are the stopping location and the blue dots are the customers. 
+![Clustering](https://github.com/DeepuShaji/Senior-Design/assets/93225563/f1502638-fd6d-4db8-8423-006414663397)
 
 
