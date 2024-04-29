@@ -130,6 +130,12 @@ Constraint 8 & 9: Time window constraint
 
 Constraint 10: Binary Constraint
 
+**Math model in python using PULP (Objective function and constraints)**
+
+![Screenshot (127)](https://github.com/DeepuShaji/Senior-Design/assets/93225563/fb6d0565-7db6-4f7f-b987-c7c19d1ed37e)
+
+
+
 # Results: 
 The above math model is solved using Pulp solver in Python. The python file which contains the code for the math model is called "SD_VRP" and the csv file which contains the distance matrix of the stopping locations is called "LFT". To run the SD_VRP program, make sure the LFT csv file and SD_VRP python file are in the same folder. 
 
@@ -156,4 +162,9 @@ After solving the model, the objective function is 50 minutes. The routes taken 
 
 
 ![locker4](https://github.com/DeepuShaji/Senior-Design/assets/93225563/ae9e6e42-22d8-4d5b-9395-b73c35603b0d)
+
+
+**Pulp solver output:**
+
+![Screenshot (131)](https://github.com/DeepuShaji/Senior-Design/assets/93225563/957da3e4-6e75-4c10-adc2-0aec26cc0f83)
 
